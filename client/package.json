@@ -1,7 +1,7 @@
 {
-  "name": "serverless-place-app-client",
+  "name": "serverless-myplaces-app-backend",
   "version": "1.0.0",
-  "description": "Serverless Place app client",
+  "description": "Serverless My Places app backend",
   "private": true,
   "dependencies": {
     "axios": "^0.18.1",
@@ -36,21 +36,16 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ],
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepembeweb/serverless-place-app.git"
+    "url": "git+https://github.com/thepembeweb/serverless-myplaces-app.git"
   },
   "keywords": [],
   "author": "Pemberai Sweto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thepembeweb/serverless-place-app/issues"
+    "url": "https://github.com/thepembeweb/serverless-myplaces-app/issues"
   },
-  "homepage": "https://github.com/thepembeweb/serverless-place-app#readme"
+  "homepage": "https://github.com/thepembeweb/serverless-myplaces-app#readme"
 }
