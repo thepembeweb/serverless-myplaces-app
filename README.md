@@ -67,7 +67,7 @@ Import the `collection-postman.json` file into your Postman app to import all th
 
 ## Authors
 
-- **[Pemberai Sweto](https://github.com/thepembeweb)** - _Initial work_ - [Serverless Place Application](https://github.com/thepembeweb/serverless-myplaces-app)
+- **[Pemberai Sweto](https://github.com/thepembeweb)** - _Initial work_ - [Serverless My Places Application](https://github.com/thepembeweb/serverless-myplaces-app)
 
 ## License
 
